@@ -4,7 +4,7 @@ By David Cuervo
 ## Background
 Select the 5 best zipcodes in Austin to invest in.
 
-
+![Austin_housing_sales](https://user-images.githubusercontent.com/57383419/118552448-961b2880-b724-11eb-8879-33a5309e0d54.png)
 
 ## Contents of Repository
 
@@ -23,6 +23,9 @@ Select the 5 best zipcodes in Austin to invest in.
 - Calculated the predicted return on investment
 - Repeated for all 38 zipcodes in Austin
 - Selected the top 5
+
+Best forecast in Austin: 78741
+![78741_forecast](https://user-images.githubusercontent.com/57383419/118552481-9f0bfa00-b724-11eb-9fb0-7271266c0f76.png)
 
 ## Conclusions
 
